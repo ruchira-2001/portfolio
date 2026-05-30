@@ -14,12 +14,12 @@ export const personal = {
   github: "https://github.com/ruchira-2001",
   resumePdf: "/resume.pdf",
   roles: [
-    "Interdisciplinary Researcher",
-    "Computational Chemist",
-    "AI Systems Developer",
-    "Analytical Chemistry Specialist",
-    "Edge-AI Engineer",
-    "Scientific Innovator",
+    "Applied Sciences Undergraduate",
+    "Published Researcher",
+    "Aspiring Analytical Chemist",
+    "Scientific Programmer",
+    "Chemistry & CS Graduate",
+    "Curious Interdisciplinary Mind",
   ],
   tagline: "Bridging Chemistry and Intelligent Computing",
   subTagline:
